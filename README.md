@@ -20,9 +20,9 @@ Dev Analysis Dashboard is a frontend web application that visualises organisatio
 
 
 ### Clone The Repository
-`git clone ` 
+`git clone https://github.com/Avishkar-1505/Dev_Analysis_Dashboard.git` 
 
-`cd `
+
 
 
 
